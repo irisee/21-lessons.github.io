@@ -1,44 +1,46 @@
 ---
-layout: lesson
-title: Chapter I
-subtitle: Philosophy
-quote: "The mouse looked at her rather inquisitively, and seemed to her to wink with one of its little eyes, but it said nothing."
+layout: leçon
+title: Chapitre I
+subtitle: Philosophie
+quote: " La souris la regarda avec une certaine curiosité et sembla esquisser un clin d'oeil d'un ce ses petits yeux, mais elle garda le silence."
 audio: /assets/audio/21lessons/1-00.m4a
 permalink: philosophy
 order: ch1-00
 toc: true
 ---
 
-Looking at Bitcoin superficially, one might conclude that it is slow, wasteful,
-unnecessarily redundant, and overly paranoid. Looking at Bitcoin inquisitively,
-one might find out that things are not as they seem at first glance.
+De loin, le bitcoin peut sembler lent, consommateur, superflu et parano.
+À y regarder de plus près, le tableau est différent.
 
-Bitcoin has a way of taking your assumptions and turning them on their heads.
-After a while, just when you were about to get comfortable again, Bitcoin will
-smash through the wall like a bull in a china shop and shatter your assumptions
-once more.
+Le bitcoin a tendance à s'emparer de vos préjugés pour les retourner complètement.
+Après quelque temps, lorsque vous aurez l'impression de commencer à maîtriser le sujet,
+le bitcoin défoncera l'édifice de vos certitudes comme un taureau dans un magasin de
+porcelaine et les réduira de nouveau en poussière.
 
 {% include image.html path="./assets/images/blind-monks.jpg" caption="Blind monks examining the Bitcoin bull" %}
 
-Bitcoin is a child of many disciplines. Like blind monks examining an elephant,
-everyone who approaches this novel technology does so from a different angle.
-And everyone will come to different conclusions about the nature of the beast.
+Le bitcoin est le fruit de plusieurs disciplines. À l'image de moines aveugles
+qui examinent un éléphant, toute personne qui s'initie à cette nouvelle technologie
+le fait sous un angle différent. Et chacun-e tire des conclusions différentes sur la
+nature de la bête.
 
-The following lessons are about some of my assumptions which Bitcoin shattered,
-and the conclusions I arrived at. Philosophical questions of immutability,
-scarcity, locality, and identity are explored in the first four lessons.
+Les leçons qui suivent concernent certaines idées que le bitcoin a éliminées et
+exposent les conclusions auxquelles je suis parvenu. Les quatre premières leçons
+s'articulent autour des concepts philosophiques d'immuabilité, de rareté, de localité
+et d'identité.
 
 {% include lesson-list.html chapter="1"%}
 
-Lesson 5 explores how Bitcoin's origin story is not only fascinating but
-absolutely essential for a leaderless system. The last two lessons of this
-chapter explore the power of free speech and the limits of our individual
-knowledge, reflected by the surprising depth of the Bitcoin rabbit hole.
+La leçon 5 retrace la génèse du bitcoin pour expliquer ce en quoi elle est non seulement
+spectaculaire, mais aussi absolument nécessaire à l'établissement d'un système dénué d'une
+direction hiérarchique. Ce chapitre se conclut avec deux leçons sur l'ampleur de la liberté
+d'expression et les limites de notre savoir personnel, telles que les révèle la profondeur
+du terrier du lapin blanc, le bitcoin.
 
-I hope that you will find the world of Bitcoin as educational, fascinating and
-entertaining as I did and still do. I invite you to follow the white rabbit and
-explore the depths of this rabbit hole. Now hold on to your pocket watch, pop
-down, and enjoy the fall.
+Mon souhait est que l'univers du bitcoin soit pour vous aussi instructif, stimulant
+et divertissant qu'il l'a été et l'est encore pour moi. Je vous invite à suivre le
+lapin blanc et à explorer les profondeurs de ce terrier. Accrochez-vous à votre montre à
+gousset, prenez votre élan et bonne chute !
 
 <!-- Wikipedia -->
 [alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
