@@ -21,12 +21,12 @@ porcelaine et les réduira de nouveau en poussière.
 
 Le bitcoin est le fruit de plusieurs disciplines. À l'image de moines aveugles
 qui examinent un éléphant, toute personne qui s'initie à cette nouvelle technologie
-le fait sous un angle différent. Et chacun-e tire des conclusions différentes sur la
+le fait sous un angle différent. Et chacun·e tire ses propres conclusions sur la
 nature de la bête.
 
-Les leçons qui suivent concernent certaines idées que le bitcoin a éliminées et
-exposent les conclusions auxquelles je suis parvenu. Les quatre premières leçons
-s'articulent autour des concepts philosophiques d'immuabilité, de rareté, de localité
+Dans les leçons qui suivent sont exposés certains concepts que le bitcoin a rendus
+obsolètes et les conclusions auxquelles je suis parvenu. Les quatre premières leçons
+portent sur des concepts philosophiques d'immuabilité, de rareté, de localité
 et d'identité.
 
 {% include lesson-list.html chapter="1"%}
