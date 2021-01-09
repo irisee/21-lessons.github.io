@@ -2,7 +2,7 @@
 layout: leçon
 title: Chapitre I
 subtitle: Philosophie
-quote: " La souris la regarda avec une certaine curiosité et sembla esquisser un clin d'oeil d'un ce ses petits yeux, mais elle garda le silence."
+quote: "La souris la regarda avec une certaine curiosité et sembla esquisser un clin d'œil d'un ce ses petits yeux, mais elle garda le silence."
 audio: /assets/audio/21lessons/1-00.m4a
 permalink: philosophy
 order: ch1-00
@@ -21,7 +21,7 @@ porcelaine et les réduira de nouveau en poussière.
 
 Le bitcoin est le fruit de plusieurs disciplines. À l'image de moines aveugles
 qui examinent un éléphant, toute personne qui s'initie à cette nouvelle technologie
-le fait sous un angle différent. Et chacun·e tire ses propres conclusions sur la
+le fait sous un angle unique. Et chacun·e tire ses propres conclusions sur la
 nature de la bête.
 
 Dans les leçons qui suivent sont exposés certains concepts que le bitcoin a rendus
@@ -31,11 +31,11 @@ et d'identité.
 
 {% include lesson-list.html chapter="1"%}
 
-La leçon 5 retrace la génèse du bitcoin pour expliquer ce en quoi elle est non seulement
+La leçon 5 retrace la genèse du bitcoin pour expliquer ce en quoi elle est non seulement
 spectaculaire, mais aussi absolument nécessaire à l'établissement d'un système dénué d'une
-direction hiérarchique. Ce chapitre se conclut avec deux leçons sur l'ampleur de la liberté
+direction hiérarchique. Ce chapitre se conclut avec deux leçons sur la puissance de la liberté
 d'expression et les limites de notre savoir personnel, telles que les révèle la profondeur
-du terrier du lapin blanc, le bitcoin.
+du terrier bitcoin.
 
 Mon souhait est que l'univers du bitcoin soit pour vous aussi instructif, stimulant
 et divertissant qu'il l'a été et l'est encore pour moi. Je vous invite à suivre le
