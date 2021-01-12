@@ -1,72 +1,74 @@
 ---
-layout: lesson
+layout: leçon
 title: Introduction
-quote: "\"But I don’t want to go among mad people,\" Alice remarked.</br> \"Oh, you can’t help that,\" said the Cat: \"we’re all mad here. I’m mad. You’re mad.\"</br> \"How do you know I’m mad?\" said Alice.</br> \"You must be,\" said the Cat, \"or you wouldn’t have come here.\"</br>"
+quote: « Mais je ne veux pas être avec des fous, remarqua Alice.</br> Oh, tu n'y peux rien, dit le Chat. Nous sommes tous fous, ici. Je suis fou. Tu es folle.</br> Comment savez-vous que je suis folle ? demanda Alice.</br> Tu l'es forcément, dit le Chat. Sinon, tu ne serais pas arrivée ici.</br> »
 audio: /assets/audio/21lessons/0-02.m4a
 permalink: intro
 order: ch0-02
 toc: true
 ---
 
-In October 2018, Arjun Balaji asked the innocuous question, [*What have you
-learned from Bitcoin?*][this question] After trying to answer this question in a
-short tweet, and failing miserably, I realized that the things I've learned are
-far too numerous to answer quickly, if at all.
+En octobre 2018, Arjun Balaji me posa une question innocente : que t'a appris le
+Bitcoin ([*What have you learned from Bitcoin?*][this question]). J'ai tenté d'y
+répondre par un bref tweet, et après avoir misésableent échoué, j'ai réalisé que
+les enseignements que j'ai tirés du Bitcoin étaient bien trop nombreux pour que
+je puisse offrir une réponse brève, voire une réponse tout court.
 
-The things I've learned are, obviously, about Bitcoin - or at least related to
-it. However, while some of the inner workings of Bitcoin are explained, the
-following lessons are not an explanation of how Bitcoin works or what it is,
-they might, however, help to explore some of the things Bitcoin touches:
-philosophical questions, economic realities, and technological innovations.
+Ce que j'ai appris concerne, évidemment, le Bitcoin, du moins de loin. Cependant,
+si certains mécanismes internes du Bitcoin sont expliqués, ce n'est pas sur son
+fonctionnement ni sur sa nature que portent les leçons suivantes ; toutefois, elles
+peuvent vous faire avancer dans votre exploration de ses ramifications : des
+questions philosophiques, des réalités économiques et des innovations technologiques.
 
-The 21 lessons are structured in bundles of seven, resulting in three chapters.
-Each chapter looks at Bitcoin through a different lens, extracting what
-lessons can be learned by inspecting this strange network from a different
-angle.
+Les 21 leçons sont stuctuées trois chapitres de sept leçons. Chaque chapitre propose
+une approche différente et permet de tirer les enseignements qui émergent au cours
+de notre exploration de cet étrange réseau.
 
-[Chapter 1][chapter1] explores the philosophical teachings of Bitcoin. The
-interplay of immutability and change, the concept of true scarcity, Bitcoin's
-immaculate conception, the problem of identity, the contradiction of replication
-and locality, the power of free speech, and the limits of knowledge.
+[Le Chapitre 1][chapter1] explore les enseignements philosophiques du Bitcoin.
+L'interaction de l'immuabilité et du changement, le concept de véritable rareté,
+l'immaculée conception du bitcoin, le problème de l'identité, la contradiction entre
+réplicabilité et localité, la puissance de la liberté d'expression et les limites du
+savoir.
 
-[Chapter 2][chapter2] explores the economic teachings of Bitcoin. Lessons about
-financial ignorance, inflation, value, money and the history of money,
-fractional reserve banking, and how Bitcoin is re-introducing sound money in a
-sly, roundabout way.
+[Le Chapitre 2][chapter2] explore les enseignements économiques du Bitcoin. Des leçons
+sur l'ignorance financière, l'inflation, la valeur, l'argent et son histoire, le système
+de réserves fractionnaires et la manière dont le Bitcoin permet de réintroduire une
+monnaie saine de manière furtive et détournée.
 
-[Chapter 3][chapter3] explores some of the lessons learned by examining the
-technology of Bitcoin.  Why there is strength in numbers, reflections on trust,
-why telling time takes work, how moving slowly and not breaking things is a
-feature and not a bug, what Bitcoin's creation can tell us about privacy, why
-cypherpunks write code (and not laws), and what metaphors might be useful to
-explore Bitcoin's future.
+[Le Chapitre 3][chapter3] explore quelques leçons tirées de la technologie du Bitcoin.
+La puissance des nombres, le sens de la confiance, l'importance du travail pour garder le
+sens du temps écoulé, le choix d'une progression lente et non destructive, l'importance
+de la genèse du Bitcoin pour la conception de la confidentialité, pourquoi les cypherpunks
+écrivent du code (plutôt que des lois) et des métaphores qui peuvent aider à explorer
+l'avenir bu Bitcoin.
 
-Each lesson contains several quotes and links throughout the text. If I have
-explored an idea in more detail, you can find links to my related works in the
-"Through the Looking-Glass" section. If you like to go deeper, links to the most
-relevant material are listed in the "Down the Rabbit Hole" section. Both can be
-found at the end of each lesson.
+Chaque leçon contient plusieurs citations et liens dans le texte. Lorsque j'ai exploré une
+idée en profondeur, vous trouverez des liens vers mes ouvrages correspondats dans la section
+« À la loupe ». Si vous souhaitez approfondir, des liens vers des contenus pertinents sont
+disponibles dans la section « La chute dans le terrier ». Ces deux sections se situent à la
+fin de chaque leçon.
 
-Even though some prior knowledge about Bitcoin is beneficial, I hope that these
-lessons can be digested by any curious reader. While some relate to each other,
-each lesson should be able to stand on its own and can be read independently. I
-did my best to shy away from technical jargon, even though some domain-specific
-vocabulary is unavoidable.
+Même si vos connaissances préalables sur le Bitcoin vous seront utiles, j'espère
+que ces leçons sont accessibles à l'ensemble du lectorat armé de curiosité.
+Certaines sont liées entre elles, mais chaque leçon forme un tout qui peut être lu
+indépendamment des autres. J'ai fait tout mon possible pour éviter le jargon
+technique, bien que l'emploi de terminologie spécialisée est inévitable.
 
-I hope that my writing serves as inspiration for others to dig beneath the
-surface and examine some of the deeper questions Bitcoin raises. My own
-inspiration came from a multitude of authors and content creators to all of whom
-I am eternally grateful.
+J'espère que mes écrits inspireront d'autres personnes à creuser sous la surface
+et à se pencher sur certaines questions plus profondes que pose le Bitcoin. J'ai
+moi-même été inspiré par un grand nombre d'auteurs-trices et de créateurs-trices
+de contenu. Je leur serai éternellement reconnaissant.
 
-Last but not least: my goal in writing this is not to convince you of anything.
-My goal is to make you think, and show you that there is way more to Bitcoin
-than meets the eye. I can’t even tell you what Bitcoin is or what Bitcoin will
-teach you. You will have to find that out for yourself.
+Pour finir : mon objectif n'est pas de vous vendre quelle idée que ce soit. Mon
+objectif est de vous entrainer dans mes réflexions pour déboucher sur les vôtres,
+et de vous montrer que le Bitcoin est bien plus vaste qu'il n'y paraît au premier
+abord. Je serais incapable de vous dire ce qu'est le Bitcoin ou encore ce qu'il
+vous apprendra. Vous devrez le découvrir par vous-même.
 
-> "After this, there is no turning back. You take the blue pill --- the
-> story ends, you wake up in your bed and believe whatever you want to
-> believe. You take the red pill --- you stay in Wonderland, and I show
-> you how deep the rabbit hole goes."
+> « Après cela, il n'y a pas de retour en arrière possible. Tu prends la
+> gélule bleue --- l'histoire s'arrête là, tu te réveilles dans ton lit
+> et crois ce qui t'arrange. Tu prends la gélule rouge --- tu restes au
+> Pays des Merveilles et je te révèle la profondeur du terrier. »
 > <cite>[Morpheus][Morpheus]</cite>
 
 {% include image.html path="./assets/images/bitcoin-orange-pill.jpg" %}
