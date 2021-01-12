@@ -1,36 +1,38 @@
 ---
-layout: lesson
-title: Preface
-quote: "Little Alice fell <br/> d <br/> o <br/> w <br/> n <br/> the hOle, <br/> bumped her head <br/> and bruised her soul."
+layout: leçon
+title: Préface
+quote: « La petite Alice <br/> t <br/> o <br/> m <br/> b <br/> a <br/> dans le trOu, <br/> se cogna la tête <br/> et blessa son âme. »
 audio: /assets/audio/21lessons/0-00.m4a
 permalink: preface
 order: ch0-00
 toc: true
 ---
 
-Falling down the Bitcoin rabbit hole is a strange experience. Like many others,
-I feel like I have learned more in the last couple of years studying Bitcoin
-than I have during two decades of formal education.
+La chute dans le terrier du bitcoin est une expérience étrange. Comme bien
+d'autres personnes, il me semble avoir plus appris ces quelques dernières années
+en étudiant le bitcoin qu'au cours de deux décennies de scolarité.
 
-The following lessons are a distillation of what I’ve learned. First published
-as an article series titled [“What I’ve Learned From Bitcoin,”][I] what follows
-can be seen as a second edition of the original series.
+Les leçons suivantes sont l'essence de ce que j'ai appris. Initialement publiées
+sous la forme d'une série d'articles intitulée [What I’ve Learned From Bitcoin][I]
+(« Ce que le bitcoin m'a appris »), ce qui suit est en quelque sorte une réédition
+de la série d'origine.
 
-Like Bitcoin, these lessons aren't a static thing. I plan to work on them
-periodically, releasing updated versions and additional material in the future.
+À l'image du bitcoin, ces leçons ne sont pas statiques. J'ai l'intention de les
+retravailler périodiquement pour publier des versions mises à jour et du contenu
+supplémentaire au fil du temps.
 
-Unlike Bitcoin, future versions of this project do not have to be backward
-compatible. Some lessons might be extended, others might be reworked or
-replaced. I hope that a future version will be something you can hold in your
-hands, but I don’t want to promise anything just yet.
+Contrairement au bitcoin, les version futures de ce projet ne seront pas forcément
+compatibles avec les versions antérieures. Certaines leçons pourront être étoffées,
+d'autres retravaillées, voire remplacées. J'espère qu'une version future prendra une
+forme que vous pourrez feuilleter, mais je ne veux pas encore faire de promesse.
 
-Bitcoin is an inexhaustible teacher, which is why I do not claim that these
-lessons are all-encompassing or complete. They are a reflection of my personal
-journey down the rabbit hole. There are many more lessons to be learned, and
-every person will learn something different from entering the world of Bitcoin.
+Le bitcoin est une source d'enseignement infinie, c'est pourquoi je ne prétends pas
+que ces leçons sont exhaustives. Elles reflètent mon parcours personnel. Il reste
+encore beaucoup à apprendre et chacun·e tirera ses propres enseignements au contact
+de l'univers du bitcoin.
 
-I hope that you will find these lessons useful and that the process of learning
-them by reading won’t be as arduous and painful as learning them firsthand.
+J'espère que ces leçons vous seront utiles et que le processus d'apprentissage par
+la lecture ne sera pas aussi ardu et douloureux que l'apprentissage par l'expérience.
 
 [Gigi][dergigi]
 
