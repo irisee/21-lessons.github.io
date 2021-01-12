@@ -10,7 +10,7 @@ toc: true
 
 En octobre 2018, Arjun Balaji me posa une question innocente : que t'a appris le
 Bitcoin ([*What have you learned from Bitcoin?*][this question]). J'ai tenté d'y
-répondre par un bref tweet, et après avoir misésableent échoué, j'ai réalisé que
+répondre par un bref tweet, et après avoir misésablement échoué, j'ai réalisé que
 les enseignements que j'ai tirés du Bitcoin étaient bien trop nombreux pour que
 je puisse offrir une réponse brève, voire une réponse tout court.
 
@@ -20,9 +20,9 @@ fonctionnement ni sur sa nature que portent les leçons suivantes ; toutefois, e
 peuvent vous faire avancer dans votre exploration de ses ramifications : des
 questions philosophiques, des réalités économiques et des innovations technologiques.
 
-Les 21 leçons sont stuctuées trois chapitres de sept leçons. Chaque chapitre propose
-une approche différente et permet de tirer les enseignements qui émergent au cours
-de notre exploration de cet étrange réseau.
+Les 21 leçons sont stucturées trois chapitres comprenant chacun sept leçons. Chaque
+chapitre propose une approche différente et permet de tirer les enseignements qui
+émergent au cours de notre exploration de cet étrange réseau.
 
 [Le Chapitre 1][chapter1] explore les enseignements philosophiques du Bitcoin.
 L'interaction de l'immuabilité et du changement, le concept de véritable rareté,
@@ -43,7 +43,7 @@ de la genèse du Bitcoin pour la conception de la confidentialité, pourquoi les
 l'avenir bu Bitcoin.
 
 Chaque leçon contient plusieurs citations et liens dans le texte. Lorsque j'ai exploré une
-idée en profondeur, vous trouverez des liens vers mes ouvrages correspondats dans la section
+idée en profondeur, vous trouverez des liens vers mes ouvrages correspondants dans la section
 « À la loupe ». Si vous souhaitez approfondir, des liens vers des contenus pertinents sont
 disponibles dans la section « La chute dans le terrier ». Ces deux sections se situent à la
 fin de chaque leçon.
