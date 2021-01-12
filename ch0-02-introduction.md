@@ -24,18 +24,18 @@ Les 21 leçons sont stucturées trois chapitres comprenant chacun sept leçons. 
 chapitre propose une approche différente et permet de tirer les enseignements qui
 émergent au cours de notre exploration de cet étrange réseau.
 
-[Le Chapitre 1][chapter1] explore les enseignements philosophiques du Bitcoin.
+[Le chapitre 1][chapter1] porte sur les enseignements philosophiques du Bitcoin.
 L'interaction de l'immuabilité et du changement, le concept de véritable rareté,
 l'immaculée conception du bitcoin, le problème de l'identité, la contradiction entre
 réplicabilité et localité, la puissance de la liberté d'expression et les limites du
 savoir.
 
-[Le Chapitre 2][chapter2] explore les enseignements économiques du Bitcoin. Des leçons
+[Le chapitre 2][chapter2] porte sur les enseignements économiques du Bitcoin. Des leçons
 sur l'ignorance financière, l'inflation, la valeur, l'argent et son histoire, le système
 de réserves fractionnaires et la manière dont le Bitcoin permet de réintroduire une
 monnaie saine de manière furtive et détournée.
 
-[Le Chapitre 3][chapter3] explore quelques leçons tirées de la technologie du Bitcoin.
+[Le chapitre 3][chapter3] porte sur quelques leçons tirées de la technologie du Bitcoin.
 La puissance des nombres, le sens de la confiance, l'importance du travail pour garder le
 sens du temps écoulé, le choix d'une progression lente et non destructive, l'importance
 de la genèse du Bitcoin pour la conception de la confidentialité, pourquoi les cypherpunks
