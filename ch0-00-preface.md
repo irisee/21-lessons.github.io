@@ -8,7 +8,7 @@ order: ch0-00
 toc: true
 ---
 
-La chute dans le terrier du bitcoin est une expérience étrange. Comme bien
+L'aventure du bitcoin est une expérience étrange. Comme bien
 d'autres personnes, il me semble avoir plus appris ces quelques dernières années
 en étudiant le bitcoin qu'au cours de deux décennies de scolarité.
 
