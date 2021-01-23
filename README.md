@@ -1,8 +1,8 @@
-# 21 Lessons
-## What I've Learned from Falling Down the Bitcoin Rabbit Hole
+# 21 leçons
+## Ce que m'a appris mon aventure dans le terrier du Lapin blanc
 
-A collection of lessons learned from falling down the Bitcoin rabbit hole. 
+Une série d'enseignements tirés de l'aventure du bitcoin.
 
-Visit [21Lessons.com](https://21lessons.com/) to view a live version of this site. 
+Rendez-vous sur [21Lessons.com](https://21lessons.com/) pour consulter ce site web. 
 
-Written and maintained by [@dergigi](https://github.com/dergigi/)
+Écrit par [@dergigi](https://github.com/dergigi/)
