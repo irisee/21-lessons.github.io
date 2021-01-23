@@ -1,5 +1,5 @@
 # 21 leçons
-## Ce que m'a appris mon aventure dans le terrier du Lapin blanc
+## Ce que j'ai appris de mon aventure dans le terrier du Lapin blanc
 
 Une série d'enseignements tirés de l'aventure du bitcoin.
 
