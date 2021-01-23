@@ -9,8 +9,8 @@ toc: true
 ---
 
 L'aventure du bitcoin est une expérience étrange. Comme bien
-d'autres personnes, il me semble avoir plus appris ces quelques dernières années
-en étudiant le bitcoin qu'au cours de deux décennies de scolarité.
+d'autres personnes, il me semble avoir plus appris en étudiant le bitcoin
+pendant quelques dernières années qu'en vingt ans de scolarité.
 
 Les leçons suivantes sont l'essence de ce que j'ai appris. Initialement publiées
 sous la forme d'une série d'articles intitulée [What I’ve Learned From Bitcoin][I]
