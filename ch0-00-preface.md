@@ -12,7 +12,7 @@ L'aventure du bitcoin est une expérience étrange. Comme beaucoup de gens,
 j'ai l'impression d'avoir plus appris en étudiant le bitcoin
 ces quelques dernières années qu'en vingt ans de scolarité.
 
-Les leçons suivantes synthétisent ces enseignements. Initialement publiées
+Les leçons qui suivent reprennent l'essence de ces enseignements. Initialement publiées
 sous la forme d'une série d'articles intitulée [What I’ve Learned From Bitcoin][I]
 (« Ce que le bitcoin m'a appris »), ce qui suit est en quelque sorte une réédition
 de la série d'origine.
@@ -26,9 +26,9 @@ compatibles avec les versions antérieures. Certaines leçons pourront être ét
 d'autres retravaillées, voire remplacées. J'espère qu'une version future prendra une
 forme que vous pourrez feuilleter, mais je ne veux encore rien vous promettre.
 
-Le bitcoin est une source d'enseignement infinie, c'est pourquoi je ne prétends pas
-que ces leçons sont exhaustives. Elles reflètent mon parcours personnel. Il reste
-encore beaucoup à apprendre et chacun·e formulera ses propres enseignements au contact
+Le bitcoin est une source d'enseignement infinie, c'est pourquoi ces leçons n'ont aucune
+prétention d'exhaustivité. Elles reflètent mon parcours personnel. Il reste
+encore beaucoup à apprendre et chacun·e formulera ses propres enseignements nés au contact
 de l'univers du bitcoin.
 
 J'espère que ces leçons vous seront utiles et que le processus d'apprentissage par
