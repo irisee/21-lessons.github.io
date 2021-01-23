@@ -12,7 +12,7 @@ L'aventure du bitcoin est une expérience étrange. Comme beaucoup de gens,
 j'ai l'impression d'avoir plus appris en étudiant le bitcoin
 pendant ces quelques dernières années qu'en vingt ans de scolarité.
 
-Les leçons suivantes sont l'essence de ce que j'ai appris. Initialement publiées
+Les leçons suivantes synthétisent ces enseignements. Initialement publiées
 sous la forme d'une série d'articles intitulée [What I’ve Learned From Bitcoin][I]
 (« Ce que le bitcoin m'a appris »), ce qui suit est en quelque sorte une réédition
 de la série d'origine.
@@ -24,15 +24,15 @@ supplémentaire au fil du temps.
 Contrairement au bitcoin, les version futures de ce projet ne seront pas forcément
 compatibles avec les versions antérieures. Certaines leçons pourront être étoffées,
 d'autres retravaillées, voire remplacées. J'espère qu'une version future prendra une
-forme que vous pourrez feuilleter, mais je ne veux pas encore faire de promesse.
+forme que vous pourrez feuilleter, mais je ne veux encore rien vous promettre.
 
 Le bitcoin est une source d'enseignement infinie, c'est pourquoi je ne prétends pas
 que ces leçons sont exhaustives. Elles reflètent mon parcours personnel. Il reste
-encore beaucoup à apprendre et chacun·e tirera ses propres enseignements au contact
+encore beaucoup à apprendre et chacun·e formulera ses propres enseignements au contact
 de l'univers du bitcoin.
 
 J'espère que ces leçons vous seront utiles et que le processus d'apprentissage par
-la lecture ne sera pas aussi ardu et douloureux que l'apprentissage par l'expérience.
+la lecture sera moins ardu et douloureux que l'apprentissage par l'expérience.
 
 [Gigi][dergigi]
 
@@ -43,5 +43,5 @@ la lecture ne sera pas aussi ardu et douloureux que l'apprentissage par l'expér
 [dergigi]: https://twitter.com/dergigi
 
 <!-- Wikipedia -->
-[alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
-[carroll]: https://en.wikipedia.org/wiki/Lewis_Carroll
+[alice]: https://fr.wikipedia.org/wiki/Les_Aventures_d%27Alice_au_pays_des_merveilles
+[carroll]: https://fr.wikipedia.org/wiki/Lewis_Carroll
