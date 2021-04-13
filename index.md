@@ -17,7 +17,7 @@ image: /assets/images/21-lessons-twitter-cover-audio.jpg
 ---
 
 >  « Je recommande chaleureusement ce livre. Si vous découvrez Bitcoin, achetez-le sur Amazon.
->  Si vous hodlez, lisez-le en ligne et envoyey du bitcoin directement à Gigi. » (Sans oublier la traductrice...)
+>  Si vous hodlez, lisez-le en ligne et envoyez du bitcoin directement à Gigi. » (Sans oublier la traductrice...)
 >  <cite>[Minimal Structure][reviews]</cite>
 
 ---
