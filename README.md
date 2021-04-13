@@ -3,6 +3,6 @@
 
 Une série d'enseignements tirés de l'aventure Bitcoin.
 
-Rendez-vous sur [21Lessons.com](https://21lessons.com/) pour consulter ce site web. 
+Rendez-vous sur [21Lessons.com](https://21lessons.com/) pour consulter ce site web en anglais. 
 
 Écrit par [@dergigi](https://github.com/dergigi/)
