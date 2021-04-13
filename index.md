@@ -5,7 +5,7 @@ subtitle: Ce que j'ai appris de mon périple dans le terrier du Lapin blanc
 subtitle_link: https://vingt-et-un.github.io/
 category: bitcoin
 description: Une série d'enseignements tirés de l'aventure Bitcoin.
-quote: "\ « Oh, you foolish Alice!\" she said again, \"how can you learn lessons in here? Why, there's hardly room for you, and no room at all for any lesson-books!\""
+quote: "\ « Oh, quelle idiote tu fais, Alice!\ » répéta-t-elle de nouveau, \ « comment pourrais-tu étudier ici ? Il y a déjà à peine assez de place pour toi, et pas de place du tout pour des livres !\ » "
 image: /assets/images/21-lessons-twitter-cover-audio.jpg
 ---
 
