@@ -1,12 +1,14 @@
 ---
 layout: page
 title: Une lettre à mes proches qui n’ont toujours pas de bitcoin
-subtitle: Traduction du texte *Dear family, dear friends* de Gigi, disponible en anglais [ici][letter].
+subtitle: Traduction du texte Dear family, dear friends de Gigi.
 subtitle_link: https://vingt-et-un.github.io/letter
 category: bitcoin
 description: Traduction de l'anglais du texte /Dear family, dear friends/ de Gigi.
 image: /assets/images/letter.jpeg
 ---
+*L'original est disponible en anglais [ici][letter].*
+
 Si je vous écris, c’est pour partager avec vous deux faits incontestables :
 
 1. notre système financier actuel est fondamentalement irréparable, et
@@ -32,36 +34,37 @@ Si vous lisez ces lignes et que vous n’avez toujours pas de bitcoin, il serait
 Attention : je ne vous parlerai pas du fonctionnement du réseau Bitcoin. Je n’évoquerai pas son histoire captivante ni sur le mystère de son inventeur·trice/ses inventeurs, et je ne vanterai pas non plus sa conception, ni encore la cryptographie ni la théorie des jeux sur lesquelles il repose. Je n’aborderai pas de théories économiques ni de propriétés monétaires, ni encore l’histoire de l’argent et de la monnaie. Les [ressources] pour le faire ne manquent pas. Après tout, ceci est une lettre et non un livre.
 
 Toutefois, par affection pour vous, il y a une chose que je dirai et répèterai à l’envi : commencez à accumulez des sats, le plus rapidement possible.
-Commencez à accumuler des sats, dès aujourd’hui
 
-Vous pensez peut-être qu’il est trop tard et que vous avez raté le coche. C’est faux. Il est encore tôt. Le bitcoin va continuer à progresser, sa valeur et son ampleur à croître, il va continuer de dévorer les monnaies fiduciaires gérées par les gouvernements qui contrôlent aujourd’hui le monde. Pourquoi dis-je que nous n’en sommes qu’au début ? Si la plupart des gens ont déjà entendu parler du bitcoin, très peu de personnes en possèdent ou l’utilisent. Par ailleurs, si l’on compare la capitalisation boursière du bitcoin avec celle d’autres actifs et/ou monnaies, le bitcoin a un potentiel de croissance énorme.
 
-À l’instant où j’écris ces lignes, la capitalisation boursière du bitcoin se situe à 135 milliards de dollars. La capitalisation boursière totale de l’or se situe autour de 9 trillions (environ 65 fois la capitalisation du bitcoin). L’immobilier représente 228 trillions (environ 1664 fois la capitalisation du bitcoin). Il est possible que le bitcoin capte cette valeur en partie (dans le cas de l’immobilier) ou bien en totalité (dans le cas de l’or), ce qui aurait pour effet de démonétiser ces actifs et d’autres au passage. Je le répète : ce n’est que le début.
+## Commencez à accumuler des sats, dès aujourd’hui
 
-    « Nous sommes en train de convertir la valeur du monde en sats. »
+Vous pensez peut-être qu’il est trop tard et que vous avez raté le coche. C’est faux. Il est encore tôt. Le bitcoin va [continuer à progresser], sa valeur et son ampleur à croître, il va continuer de dévorer les monnaies fiduciaires gérées par les gouvernements qui contrôlent aujourd’hui le monde. Pourquoi dis-je que nous n’en sommes qu’au début ? Si la plupart des gens ont déjà entendu parler du bitcoin, très peu de personnes en possèdent ou l’utilisent. Par ailleurs, si l’on compare la capitalisation boursière du bitcoin avec celle d’autres actifs et/ou monnaies, le bitcoin a un potentiel de croissance énorme.
 
-    — Bitcoin Tina
+À l’instant où j’écris ces lignes, la capitalisation boursière du bitcoin se situe à 135 milliards de dollars. La capitalisation boursière totale de l’or se situe autour de 9 trillions (environ 65 fois la capitalisation du bitcoin). L’immobilier représente [228 trillions] (environ 1664 fois la capitalisation du bitcoin). Il est possible que le bitcoin capte cette valeur en partie (dans le cas de l’immobilier) ou bien en totalité (dans le cas de l’or), ce qui aurait pour effet de démonétiser ces actifs et d’autres au passage. Je le répète : ce n’est que le début.
+
+> « Nous sommes en train de convertir la valeur du monde en sats. »
+> <cite>— Bitcoin Tina</cite>
 
 Il est vrai qu’acheter et détenir des bitcoins n’est pas toujours fun. Il est facile de faire des erreurs. Il est facile de se faire avoir. Il est possible de perdre ses bitcoins irrémédiablement. Je vous préviens donc : renseignez-vous et prenez toutes vos précautions.
 
 Malheureusement pour moi, je n’avais pas de « guide du bitcoin » qui sache ce dont il s’agissait. Il n’y avait personne dans mon entourage pour me dire : « fais-moi confiance et achète du bitcoin » ou, mieux encore : « fais-moi confiance, achète un peu de bitcoin régulièrement. »
 
-C’est pourquoi j’aimerais maintenant être ce*tte guide du bitcoin pour vous. Voici ce que je vous dirais, pour honorer les liens qui nous rapprochent : « Commencez à accumuler des sats, dès aujourd’hui. » Si c’est déjà le cas, très bien. Sinon, lancez-vous. Ce n’est pas si difficile !
-Pourquoi Bitcoin est nécessaire
+C’est pourquoi j’aimerais maintenant être ce·tte guide du bitcoin pour vous. Voici ce que je vous dirais, pour honorer les liens qui nous rapprochent : « Commencez à accumuler des sats, dès aujourd’hui. » Si c’est déjà le cas, très bien. Sinon, lancez-vous. Ce n’est pas si difficile !
+
+
+## Pourquoi Bitcoin est nécessaire
 
 En tant que société, nous avons besoin de Bitcoin plus qu’il n’a besoin de nous. L’argent est un outil essentiel pour tous les types de coopération à grande échelle. C’est un instrument de mesure, une solution au problème du troc, un véhicule qui permet de conserver sa richesse dans l’espace et le temps et bien d’autres choses encore. Pour faire court : l’argent est essentiel au bon fonctionnement d’une société complexe. Cependant, les dernières crises financières en série et les événements qui ont suivi une certaine pandémie ont clairement révélé que notre argent est fondamentalement hors d’usage.
 
-    « Le problème fondamental de la monnaie conventionnelle, c’est la confiance. La banque centrale doit être digne de confiance, c’est-à-dire ne pas dévaloriser la monnaie, mais l’histoire des monnaies fiduciaires est jalonnée de manquements à cette condition nécessaire. »
-
-    — Satoshi Nakamoto
+> « Le problème fondamental de la monnaie conventionnelle, c’est la confiance. La banque centrale doit être digne de confiance, c’est-à-dire ne pas dévaloriser la monnaie, mais l’histoire des monnaies fiduciaires est jalonnée de manquements à cette condition nécessaire. »
+> <cite>— [Satoshi Nakamoto]</cite>
 
 Le virus nous a non seulement rappelé la fragilité de la vie humaine, il a aussi révélé la fragilité de nos chaînes d’approvisionnement et d’autres systèmes internationaux. Notamment, il a mis en lumière combien notre système financier et monétaire est ridicule. En l’espace de quelques jours à peine, les milliards que nous imprimions sont devenus des trillions ; des propositions ont émergé pour l’émission de pièces en platine d’une valeur d’un trillion de dollars, allant jusqu’à l’assouplissement quantitatif infini et la création d’espèces également infinies. Économistes, hommes et femmes politiques parlent de sauvetage de l’économie, d’injection de liquidités, d’assouplissement quantitatif, d’accords de prise en pension, de renflouement des entreprises qui seraient trop importantes pour faire faillite (une fois encore), bref, de faire tout ce qui est en leur pouvoir pour faire repousser l’effondrement inéluctable, pour continuer de botter en touche.
 
 Si le jargon est élaboré, les répercussions sont simples : un instrument essentiel de notre société est manipulé, déformé. Lorsque la pression sans relâche vient à bout de cet outil, c’est l’hyperinflation. Hyperinflation ou pas, l’impact est toujours le même pour les individus : l’argent que vous économisez est dévalué, son pouvoir d’achat diminue. Que vous conserviez votre argent sous votre matelas ou dans votre compte en banque, cela ne fait aucune différence.
 
-    « Le monde est parti en vrille et le système est mort. »
-
-    — Ray Dalio
+> « Le monde est parti en vrille et le système est mort. »
+> <cite>— Ray Dalio</cite>
 
 Comme l’explique Ray Dalio avec tant d’éloquence, notre système, qui repose sur la dette, est fondamentalement irréparable. Bitcoin y apporte une solution. La solution, c’est que le bitcoin n’est pas basé sur la dette. La solution, c’est qu’il n’existe qu’en quantité strictement limitée. La solution, c’est qu’il n’est pas possible d’en émettre de manière arbitraire parce qu’il n’est sous la responsabilité de personne, qu’aucune puissance centralisée ne peut le corrompre.
 
@@ -72,19 +75,18 @@ Ses propriétés monétaires sont intégralement conçues pour le rendre supéri
 
 Il n’y a pas d’autorité centralisée pour octroyer ces propriétés au bitcoin. Elles émergent naturellement du système, ce qui est aussi beau qu’important. En conséquence, le bitcoin est l’argent du peuple : pour le peuple, par le peuple. Il n’est pas sous le contrôle de qui que ce soit, il est vérifiable et utilisable par tout le monde.
 
-    « Achetez des terres. C’est une ressource en rupture de stock. »
-
-    — Will Rogers
+> « Achetez des terres. C’est une ressource en rupture de stock. »
+> <cite>— Will Rogers</cite>
 
 Will Rogers tenait le bon concept : la rareté, c’est la valeur. Cependant, lorsqu’il s’agit de conserver de la valeur, le bitcoin est supérieur à de nombreux égards à l’immobilier (et à l’or aussi, d’ailleurs). Il n’y a aucun autre actif qui puisse circuler comme par magie via internet ou d’autres canaux de communication. Le bitcoin, composé exclusivement d’informations, est l’actif dont la valeur est la plus dense, et de loin. Vous pourriez posséder un milliard de dollars en bitcoin dans votre tête et conserver votre richesse même si vous perdiez tout le reste.
 
 Le bitcoin fait l’objet de nombreux préjugés, dont voici probablement les principaux :
 
-    Le bitcoin est trop cher
-    Le bitcoin est obsolète
-    Le bitcoin est trop compliqué
-    Le bitcoin est risqué et spéculatif
-    Le bitcoin va être remplacé par une autre cryptomonnaie
+> Le bitcoin est trop cher
+> Le bitcoin est obsolète
+> Le bitcoin est trop compliqué
+> Le bitcoin est risqué et spéculatif
+> Le bitcoin va être remplacé par une autre cryptomonnaie
 
 Examinons-les brièvement un à un.
 
@@ -98,9 +100,8 @@ Le bitcoin est risqué et spéculatif : Ne spéculez pas. Restez humble et comme
 
 Le bitcoin sera remplacé par une autre cryptomonnaie : Le bitcoin règne en maître et est le seul candidat sérieux dans le domaine de la rareté numérique. Il possède les meilleurs effets de réseau, la plus haute liquidité et de loin la sécurité la plus performante. Il n’a aucune concurrence et je ne gâcherai pas un iota d’encre numérique pour nommer une autre cryptomonnaie. Je n’ai qu’un mot à dire au sujet des imitations du bitcoin : n’y touchez pas. S’il est difficile de résister aux sirènes des shitcoins, ce n’est pas pour rien qu’ils sont ainsi nommés. Il est impossible de copier le bitcoin. C’est une invention dépendante au sentier dans un environnement hégémonique.
 
-    « Il y a le bitcoin. Et puis il y a les shitcoins. »
-
-    — Warren Davidson
+> « Il y a le bitcoin. Et puis il y a les shitcoins. »
+> <cite>— Warren Davidson</cite>
 
 Les shitcoins mènent droit au mur. N’empruntez pas cette voie. Rien ne vous y attend que des larmes de regret.
 Pourquoi accumuler des sats est votre meilleure option
@@ -118,22 +119,21 @@ Ce que vous devez en retenir, c’est qu’il ne sert à rien de vous en mordre 
 
 Le bitcoin est un jeu d’accumulation. Si vous l’avez compris, il devient évident qu’il faut se constituer une réserve de sats. Avec son approvisionnement fixe et sa capitalisation boursière relativement réduite, le bitcoin est plus volatil que les autres actifs. (Même si, par rapport aux récents mouvements des marchés traditionnels, le bitcoin est relativement stable.) Acheter des sats vous garantit contre la volatilité du marché. Le focus est sur l’accumulation et non le trading.
 
-    « Le bitcoin est un nouveau type de monnaie numérique, indépendant des gouvernements du monde entier et des multinationales. Il est difficile à saisir, à bloquer ou à gonfler, et facile à faire circuler. C’est le meilleur argent qui soit. Plus les gens seront nombreux à le comprendre, plus le prix augmentera. »
-
-    — Matt Odell
+> « Le bitcoin est un nouveau type de monnaie numérique, indépendant des gouvernements du monde entier et des multinationales. Il est difficile à saisir, à bloquer ou à gonfler, et facile à faire circuler. C’est le meilleur argent qui soit. Plus les gens seront nombreux à le comprendre, plus le prix augmentera. »
+> <cite>— Matt Odell</cite>
 
 Il suffit de dézoomer pour constater que le prix du bitcoin ne fait qu’augmenter. Il y a de bonnes raisons de croire que cette tendance va se poursuivre. Même si l’évolution se poursuit à la hausse, le prix du bitcoin va probablement continuer de connaître une volatilité importante pendant assez longtemps. Mon conseil : n’accordez pas d’attention au prix. Ne restez pas à zéro. Vous n’avez toujours pas un seul sat ? Réveillez-vous et achetez-en.
 
 Quelques points à garder en tête :
 
-    Pas de trading
-    Ne restez pas à zéro
-    Automatisez avec le DCA automatique
-    Tout le monde pense qu’il est trop tard
-    Vous pouvez acheter une fraction de bitcoin
-    Les tiers de confiance sont des failles de sécurité
-    Le temps joue en votre faveur, les prévisions, elles, non
-    Il y a l’or, et puis il y a l’or crétin: ne touchez pas aux shitcoins
+> Pas de trading
+> Ne restez pas à zéro
+> Automatisez avec le DCA automatique
+> Tout le monde pense qu’il est trop tard
+> Vous pouvez acheter une fraction de bitcoin
+> Les tiers de confiance sont des failles de sécurité
+> Le temps joue en votre faveur, les prévisions, elles, non
+> Il y a l’or, et puis il y a l’or crétin: ne touchez pas aux shitcoins
 
 Vous penserez peut-être que vous n’avez pas assez d’argent pour commencer à acheter des sats. J’en doute. Si vous lisez ces lignes, vous vous trouvez probablement au niveau 4 et vous pouvez sans doute épargner un ou deux dollars par jour. N’oubliez pas que quelques dollars vous permettent d’acheter des dizaines de milliers de sats. Il y a aussi des manières indirectes de recevoir des sats, comme certains services de cashback. Vous pouvez aussi vous défaire d’une vieille habitude et commencer à acheter des sats avec les économies réalisées. Pour faire d’une pierre deux coups, etc.
 
@@ -144,17 +144,16 @@ Vous êtes sceptique, je peux le comprendre. J’étais moi aussi sceptique. Il 
 
 Tout cela étant dit, voici quelques avertissements :
 
-    Commencez doucement. N’achetez pas plus que vos moyens ne vous le permettent.
-    Soyez humble. Ne soyez pas cupide. Ne vous mettez pas en difficulté.
-    Si ce ne sont pas vos clefs, ce ne sont pas vos bitcoins. Ne faites pas confiance aux dépositaires. Gardez toujours à l’esprit que les tiers de confiance sont des failles de sécurité.
-    Ne faites pas confiance, vérifiez. Partez du principe que vous ne pouvez faire confiance à personne.
-    Renseignez-vous. Le bitcoin est par nature libre d’accès : vous pouvez vous renseigner sur sa nature et son fonctionnement. Je propose une liste exhaustive de ressources (en anglais) s’il vous faut un point de départ.
+> Commencez doucement. N’achetez pas plus que vos moyens ne vous le permettent.
+> Soyez humble. Ne soyez pas cupide. Ne vous mettez pas en difficulté.
+> Si ce ne sont pas vos clefs, ce ne sont pas vos bitcoins. Ne faites pas confiance aux dépositaires. Gardez toujours à l’esprit que les tiers de confiance sont des failles de sécurité.
+> Ne faites pas confiance, vérifiez. Partez du principe que vous ne pouvez faire confiance à personne.
+> Renseignez-vous. Le bitcoin est par nature libre d’accès : vous pouvez vous renseigner sur sa nature et son fonctionnement. Je propose une liste exhaustive de ressources (en anglais) s’il vous faut un point de départ.
 
 C’est le moment idéal pour créer une épargne en bitcoin. De nombreux services vous permettent de convertir automatiquement un certain montant de votre monnaie locale en bitcoin de façon hebdomadaire, mensuelle ou quotidienne. Je n’émettrai aucune recommandation ici, car celle-ci pourrait perdre de sa validité rapidement. Il vous revient de trouver le service le mieux adapté à vos besoins. Contactez votre prêtre*sse local ou guide bitcoin à proximité. Si cette personne ne connait pas le DCA, l’investissement automatique, trouvez une personne mieux renseignée. (Et s’il se trouve que c’est moi, alors contactez-moi.)
 
-    « Détenir du bitcoin est l’un des rares paris asymétriques auxquels les peuples du monde entier peuvent prendre part. »
-
-    — Vijay Boyapati
+> « Détenir du bitcoin est l’un des rares paris asymétriques auxquels les peuples du monde entier peuvent prendre part. »
+> <cite>— Vijay Boyapati</cite>
 
 Si le bitcoin est un investissement pour l’avenir, je ne le vois pas nécessairement comme un investissement spéculatif. Je ne le perçois pas non plus comme un actif qui a vocation à être revendu contre des dollars, euros ou yens. Pour citer le mème consacré : « Lorsque le temps sera venu, vous n’aurez pas à vendre votre bitcoin. »
 Néo a choisi la pilule orange et tombe dans le terrier du lapin blanc.
@@ -220,3 +219,6 @@ Traductions
 [FG]: https://www.youtube.com/watch?v=6HFtk29k7-Y
 [Simpson2]: https://youtu.be/ovyMzT8rS8w
 [ressources]: https://bitcoin-resources.com/
+[continuer à progresser]: https://dergigi.com/2019/10/03/how-to-kill-bitcoin/
+[228 trillions]: https://internationalservices.hsbc.com/content/dam/hsbcis/pdf/HSBC_Global_Real_Estate_Report_July2017.pdf
+[Satoshi Nakamoto]: https://satoshi.nakamotoinstitute.org/posts/p2pfoundation/1/
