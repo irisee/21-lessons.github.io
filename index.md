@@ -5,13 +5,13 @@ subtitle: Ce que j'ai appris de mon périple dans le terrier du Lapin blanc
 subtitle_link: https://vingt-et-un.github.io/
 category: bitcoin
 description: Une série d'enseignements tirés de l'aventure Bitcoin.
-quote: "\ « Oh, quelle idiote tu fais, Alice!\ » répéta-t-elle de nouveau, \ « comment pourrais-tu étudier ici ? Il y a déjà à peine assez de place pour toi, et pas de place du tout pour des livres !\ » "
+quote: "\ « Oh, quelle idiote tu fais, Alice !\ » répéta-t-elle de nouveau, \ « comment pourrais-tu étudier ici ? Il y a déjà à peine assez de place pour toi, et pas de place du tout pour des livres !\ » "
 image: /assets/images/21-lessons-twitter-cover-audio.jpg
 ---
 
 <div class="action-buttons">
   <div class="button"><a href="https://amzn.to/2Wa4qJo">Achetez le livre en anglais !</a></div>
-  <small>(... ou <a href="{{ 'preface' | absolute_url }}">lisez-le en ligne</a> gratuitement)</small>
+  <small>(... ou <a href="{{ 'preface' | absolute_url }}">lisez-le en ligne</a> en français et gratuitement)</small>
 </div>
 
 ---
@@ -53,7 +53,7 @@ image: /assets/images/21-lessons-twitter-cover-audio.jpg
 
 Grâce à notre merveilleuse communauté, les 21 leçons sont disponibles dans
 [plusieurs langues][translations] ainsi qu'en [version audio (en anglais)][audio]
-et en [format réalité virtuelle][VR].
+et en [format réalité virtuelle (en anglais)][VR].
 
 ---
 
