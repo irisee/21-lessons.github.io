@@ -4,7 +4,7 @@ title: Une lettre
 subtitle: À mes proches qui n’ont toujours pas de bitcoin
 subtitle_link: https://vingt-et-un.github.io/letter
 category: bitcoin
-description: Traduction du texte Dear family, dear friends de Gigi, disponible en anglais ici.
+description: Traduction de l'anglais du texte /Dear family, dear friends/ de Gigi.
 image: /assets/images/letter.jpeg
 ---
 
