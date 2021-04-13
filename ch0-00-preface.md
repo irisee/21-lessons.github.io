@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: preface
+title: Préface
 quote: "La petite Alice <br/> t <br/> o <br/> m <br/> b <br/> a <br/> dans le trOu, <br/> se cogna la tête <br/> et se fit mal à l'âme."
 audio: /assets/audio/21lessons/0-00.m4a
 permalink: preface
