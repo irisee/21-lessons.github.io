@@ -44,7 +44,7 @@ Vous pensez peut-être qu’il est trop tard et que vous avez raté le coche. C�
 
 > « Nous sommes en train de convertir la valeur du monde en sats. »
 
-> <cite>— Bitcoin Tina</cite>
+> <cite>Bitcoin Tina</cite>
 
 Il est vrai qu’acheter et détenir des bitcoins n’est pas toujours fun. Il est facile de faire des erreurs. Il est facile de se faire avoir. Il est possible de perdre ses bitcoins irrémédiablement. Je vous préviens donc : renseignez-vous et prenez toutes vos précautions.
 
@@ -65,7 +65,8 @@ Le virus nous a non seulement rappelé la fragilité de la vie humaine, il a aus
 Si le jargon est élaboré, les répercussions sont simples : un instrument essentiel de notre société est manipulé, déformé. Lorsque la pression sans relâche vient à bout de cet outil, c’est l’hyperinflation. Hyperinflation ou pas, l’impact est toujours le même pour les individus : l’argent que vous économisez est dévalué, son pouvoir d’achat diminue. Que vous conserviez votre argent sous votre matelas ou dans votre compte en banque, cela ne fait aucune différence.
 
 > « Le monde est parti en vrille et le système est mort. »
-> <cite>— Ray Dalio</cite>
+
+> <cite>Ray Dalio</cite>
 
 Comme l’explique Ray Dalio avec tant d’éloquence, notre système, qui repose sur la dette, est fondamentalement irréparable. Bitcoin y apporte une solution. La solution, c’est que le bitcoin n’est pas basé sur la dette. La solution, c’est qu’il n’existe qu’en quantité strictement limitée. La solution, c’est qu’il n’est pas possible d’en émettre de manière arbitraire parce qu’il n’est sous la responsabilité de personne, qu’aucune puissance centralisée ne peut le corrompre.
 
@@ -77,14 +78,17 @@ Ses propriétés monétaires sont intégralement conçues pour le rendre supéri
 Il n’y a pas d’autorité centralisée pour octroyer ces propriétés au bitcoin. Elles émergent naturellement du système, ce qui est aussi beau qu’important. En conséquence, le bitcoin est l’argent du peuple : pour le peuple, par le peuple. Il n’est pas sous le contrôle de qui que ce soit, il est vérifiable et utilisable par tout le monde.
 
 > « Achetez des terres. C’est une ressource en rupture de stock. »
-> <cite>— Will Rogers</cite>
+
+> <cite>Will Rogers</cite>
 
 Will Rogers tenait le bon concept : la rareté, c’est la valeur. Cependant, lorsqu’il s’agit de conserver de la valeur, le bitcoin est supérieur à de nombreux égards à l’immobilier (et à l’or aussi, d’ailleurs). Il n’y a aucun autre actif qui puisse circuler comme par magie via internet ou d’autres canaux de communication. Le bitcoin, composé exclusivement d’informations, est l’actif dont la valeur est la plus dense, et de loin. Vous pourriez posséder un milliard de dollars en bitcoin dans votre tête et conserver votre richesse même si vous perdiez tout le reste.
 
 Le bitcoin fait l’objet de nombreux préjugés, dont voici probablement les principaux :
 
 > Le bitcoin est trop cher
+> 
 > Le bitcoin est obsolète
+
 > Le bitcoin est trop compliqué
 > Le bitcoin est risqué et spéculatif
 > Le bitcoin va être remplacé par une autre cryptomonnaie
