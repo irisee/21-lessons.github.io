@@ -43,6 +43,7 @@ Vous pensez peut-être qu’il est trop tard et que vous avez raté le coche. C�
 À l’instant où j’écris ces lignes, la capitalisation boursière du bitcoin se situe à 135 milliards de dollars. La capitalisation boursière totale de l’or se situe autour de 9 trillions (environ 65 fois la capitalisation du bitcoin). L’immobilier représente [228 trillions] (environ 1664 fois la capitalisation du bitcoin). Il est possible que le bitcoin capte cette valeur en partie (dans le cas de l’immobilier) ou bien en totalité (dans le cas de l’or), ce qui aurait pour effet de démonétiser ces actifs et d’autres au passage. Je le répète : ce n’est que le début.
 
 > « Nous sommes en train de convertir la valeur du monde en sats. »
+
 > <cite>— Bitcoin Tina</cite>
 
 Il est vrai qu’acheter et détenir des bitcoins n’est pas toujours fun. Il est facile de faire des erreurs. Il est facile de se faire avoir. Il est possible de perdre ses bitcoins irrémédiablement. Je vous préviens donc : renseignez-vous et prenez toutes vos précautions.
