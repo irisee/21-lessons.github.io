@@ -1,11 +1,11 @@
 ---
 layout: page
-title: 21 Lessons
-subtitle: What I've Learned from Falling Down the Bitcoin Rabbit Hole
-subtitle_link: http://21lessons.com
+title: 21 leçons
+subtitle: Ce que j'ai appris de mon périple dans le terrier du Lapin blanc
+subtitle_link: https://vingt-et-un.github.io/
 category: bitcoin
-description: An exploration of questions and lessons learned from falling down the Bitcoin rabbit hole.
-quote: "\"Oh, you foolish Alice!\" she said again, \"how can you learn lessons in here? Why, there's hardly room for you, and no room at all for any lesson-books!\""
+description: Une série d'enseignements tirés de l'aventure Bitcoin.
+quote: "\« Oh, you foolish Alice!\" she said again, \"how can you learn lessons in here? Why, there's hardly room for you, and no room at all for any lesson-books!\""
 image: /assets/images/21-lessons-twitter-cover-audio.jpg
 ---
 
