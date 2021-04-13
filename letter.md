@@ -1,36 +1,35 @@
 ---
 layout: page
-title: Une lettre
-subtitle: À mes proches qui n’ont toujours pas de bitcoin
+title: Une lettre à mes proches qui n’ont toujours pas de bitcoin
+subtitle: Traduction du texte *Dear family, dear friends* de Gigi, disponible en anglais [ici][letter].
 subtitle_link: https://vingt-et-un.github.io/letter
 category: bitcoin
 description: Traduction de l'anglais du texte /Dear family, dear friends/ de Gigi.
 image: /assets/images/letter.jpeg
 ---
-
-
-Traduction du texte Dear family, dear friends de Gigi, disponible en anglais [ici][letter].
-
 Si je vous écris, c’est pour partager avec vous deux faits incontestables :
 
-    notre système financier actuel est fondamentalement irréparable, et
-    à titre personnel mais également pour la société au sens large, vous avez tout intérêt à utiliser une monnaie supérieure, et ce sur le long terme.
+1. notre système financier actuel est fondamentalement irréparable, et
+2. à titre personnel mais également pour la société au sens large, vous avez tout intérêt à utiliser une monnaie supérieure, et ce sur le long terme.
 
 L’argent est un sujet sensible. La plupart des gens n’aiment pas en parler, soit par honte parce qu’ils en ont peu, soit par peur parce qu’ils en ont beaucoup. Rares sont les personnes qui comprennent la nature de notre argent. C’est troublant, lorsque l’on pense que l’argent est un outil fondamental dans notre société.
 
 Le monde a énormément changé ces vingt dernières années et le monde de l’argent aussi. J’ai bien peur, toutefois, que la nature fondamentale de notre système monétaire ne se soit vraiment pas améliorée. Le simple fait que, partout dans le monde, des gouvernements créent comme par magie des trillions (avec un t) de dollars montre bien combien notre système monétaire est déconnecté de la réalité.
 
 J’espère que cette lettre sèmera les graines d’un monde meilleur. Un monde meilleur pour vous, personnellement, et pour tout le monde. Je vous écris aussi parce que l’avenir m’inquiète. Et pourtant, je ne perds pas espoir, car nous avons, cette fois-ci, une échappatoire : un plan B.
-Le plan B
 
-Vous avez sûrement déjà entendu parler du bitcoin. C’est un mot que l’on entend régulièrement au détour des conversations, dans les grands médias, à la télévision (n’est-ce pas, CNBC [chaîne américaine] ?) ou encore dans la culture populaire (Les Simpson, Mr. Robot, Silicon Valley, The Big Bang Theory, Grey’s Anatomy, Family Guy et, toujours et encore, Les Simpson). Vous pensez peut-être connaître déjà le bitcoin, mais ce n’est que la partie émergée de l’iceberg.
-Bitcoin : l’avenir de l’argent.
 
-Si les médias ont largement couvert le sujet, rares sont les personnes qui comprennent ce qu’est le bitcoin et le rôle qu’il sera amené à jouer. Néanmoins, grâce notamment aux interventions monétaires de plus en plus téméraires de la Fed [Federal Reserve, l’équivalent aux États-Unis de la Banque centrale européenne (BCE) dans l’Union européenne] et de ses homologues, même le discours de la majorité commence à changer. Le bitcoin n’est plus synonyme de financement d’actes criminels ni du darknet. Il est aujourd’hui de plus en plus synonyme de monnaie saine, de rempart contre le système actuel, de vote en faveur de la liberté et d’un changement de système.
+## Le plan B
+
+Vous avez sûrement déjà entendu parler du bitcoin. C’est un mot que l’on entend régulièrement au détour des conversations, dans les grands médias, à la télévision (n’est-ce pas, CNBC [*chaîne américaine*] ?) ou encore dans la culture populaire ([Les Simpson][Simpson], [Mr. Robot][Mr.], [Silicon Valley][SV], [The Big Bang Theory][BBT], [Grey’s Anatomy][GA], [Family Guy][FG] et, toujours et encore, [Les Simpson][Simpson2]). Vous pensez peut-être connaître déjà Bitcoin, mais ce n’est que la partie émergée de l’iceberg.
+
+{% include image.html path="./assets/images/Bitcoin_avenir_argent.jpg" caption="Bitcoin : l’avenir de l’argent." %}
+
+Si les médias ont largement couvert le sujet, rares sont les personnes qui comprennent ce qu’est le bitcoin et le rôle qu’il sera amené à jouer. Néanmoins, grâce notamment aux interventions monétaires de plus en plus téméraires de la Fed [*Federal Reserve, l’équivalent aux États-Unis de la Banque centrale européenne (BCE) dans l’Union européenne*] et de ses homologues, même le discours de la majorité commence à changer. Le bitcoin n’est plus synonyme de financement d’actes criminels ni du darknet. Il est aujourd’hui de plus en plus synonyme de monnaie saine, de rempart contre le système actuel, de vote en faveur de la liberté et d’un changement de système.
 
 Si vous lisez ces lignes et que vous n’avez toujours pas de bitcoin, il serait peut-être temps de commencer à en acheter. Il n’a jamais été aussi facile d’empocher quelques sats (de minuscules fractions de bitcoin) pour rejoindre les rangs des pionniers de la future monnaie mondiale.
 
-Attention : je ne vous parlerai pas du fonctionnement du réseau Bitcoin. Je n’évoquerai pas son histoire captivante ni sur le mystère de son inventeur*trice/ses inventeurs, et je ne vanterai pas non plus sa conception, ni encore la cryptographie ni la théorie des jeux sur lesquelles il repose. Je n’aborderai pas de théories économiques ni de propriétés monétaires, ni encore l’histoire de l’argent et de la monnaie. Les ressources pour le faire ne manquent pas. Après tout, ceci est une lettre et non un livre.
+Attention : je ne vous parlerai pas du fonctionnement du réseau Bitcoin. Je n’évoquerai pas son histoire captivante ni sur le mystère de son inventeur·trice/ses inventeurs, et je ne vanterai pas non plus sa conception, ni encore la cryptographie ni la théorie des jeux sur lesquelles il repose. Je n’aborderai pas de théories économiques ni de propriétés monétaires, ni encore l’histoire de l’argent et de la monnaie. Les [ressources] pour le faire ne manquent pas. Après tout, ceci est une lettre et non un livre.
 
 Toutefois, par affection pour vous, il y a une chose que je dirai et répèterai à l’envi : commencez à accumulez des sats, le plus rapidement possible.
 Commencez à accumuler des sats, dès aujourd’hui
@@ -213,3 +212,11 @@ Traductions
 
 <!-- Links -->
 [letter]: https://dergigi.medium.com/dear-family-dear-friends-6ef7ee7a1a2b
+[Simpson]: https://www.ccn.com/bitcoin-finally-mentioned-foxs-simpsons/
+[Mr.]: https://youtu.be/gHOAKWzDH-Q
+[SV]: https://www.youtube.com/watch?v=28IpiLraUoc
+[BBT]: https://www.youtube.com/watch?v=Cc-Hbklizzk
+[GA]: https://www.cyberscoop.com/greys-anatomy-attempts-bring-ransomware-attacks-public-audience/
+[FG]: https://www.youtube.com/watch?v=6HFtk29k7-Y
+[Simpson2]: https://youtu.be/ovyMzT8rS8w
+[ressources]: https://bitcoin-resources.com/
