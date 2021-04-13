@@ -10,14 +10,14 @@ image: /assets/images/21-lessons-twitter-cover-audio.jpg
 ---
 
 <div class="action-buttons">
-  <div class="button"><a href="https://amzn.to/2Wa4qJo">Buy the book!</a></div>
-  <small>(...or <a href="{{ 'preface' | absolute_url }}">read it online</a> for free)</small>
+  <div class="button"><a href="https://amzn.to/2Wa4qJo">Achetez le livre en anglais !</a></div>
+  <small>(... ou <a href="{{ 'preface' | absolute_url }}">lisez-le en ligne</a> gratuitement)</small>
 </div>
 
 ---
 
->  "I highly recommend this book. If you're new to bitcoin, buy it on Amazon. If you're a
->  Hodler, read the book online and send bitcoin directly to Gigi."
+>  « Je recommande chaleureusement ce livre. Si vous découvrez Bitcoin, achetez-le sur Amazon.
+>  Si vous hodlez, lisez-le en ligne et envoyey du bitcoin directement à Gigi. » (Sans oublier la traductrice...)
 >  <cite>[Minimal Structure][reviews]</cite>
 
 ---
@@ -51,18 +51,19 @@ image: /assets/images/21-lessons-twitter-cover-audio.jpg
 </div>
 
 
-Thanks to the awesome members of the Bitcoin community, 21 Lessons is available
-in [several languages][translations] and as an [audio version][audio].
+Grâce à notre merveilleuse communauté, les 21 leçons sont disponibles dans
+[plusieurs langues][translations] ainsi qu'en [version audio (en anglais)][audio]
+et en [format réalité virtuelle][VR].
 
 ---
 
-> The White Rabbit put on his spectacles. 'Where shall I begin, please your
-> Majesty?' he asked. '[Begin at the beginning][preface],' the King said
-> gravely, 'and go on till you come to the end: then stop.'
+> Le Lapin blanc chaussa ses lunettes. « Où dois-je commencer je vous prie, Votre Majesté ? »,
+> demanda-t-il. « [Commence par le début][preface] », répondit le Roi avec gravité,
+> « et continue jusqu'à la fin ; alors, tu t'arrêteras. »
 
 <center>
-  <p>Ready to enter Wonderland?<br/>
-  <a href="{{ 'preface' | absolute_url }}">Follow the white rabbit →</a></p>
+  <p>Envie d'entrer au Pays des merveilles ?<br/>
+  <a href="{{ 'preface' | absolute_url }}">Suivez le Lapin blanc →</a></p>
   <p><a href="{{ 'preface' | absolute_url }}"><img src="/assets/images/rabbit.png"/></a></p>
 </center>
 
@@ -74,4 +75,5 @@ in [several languages][translations] and as an [audio version][audio].
 [preface]: {{ 'preface' | absolute_url }}
 [translations]: {{ 'translations' | absolute_url }}
 [audio]: {{ 'audio' | absolute_url }}
+[VR]: https://21lessons.com/vr/
 [reviews]: {{ 'reviews' | absolute_url }}
