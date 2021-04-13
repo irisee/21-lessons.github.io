@@ -11,13 +11,14 @@ image: /assets/images/21-lessons-twitter-cover-audio.jpg
 
 <div class="action-buttons">
   <div class="button"><a href="https://amzn.to/2Wa4qJo">Achetez le livre en anglais !</a></div>
-  <small>(... ou <a href="{{ 'preface' | absolute_url }}">lisez-le en ligne</a> en français et gratuitement)</small>
+  <small>(... ou <a href="https://vingt-et-un.github.io/preface">lisez-le en ligne</a> en français et gratuitement)</small>
 </div>
 
 ---
 
 >  « Je recommande chaleureusement ce livre. Si vous découvrez Bitcoin, achetez-le sur Amazon.
->  Si vous hodlez, lisez-le en ligne et envoyez du bitcoin directement à Gigi. » (Sans oublier la traductrice...)
+>  Si vous hodlez, lisez-le en ligne et envoyez du bitcoin directement à Gigi. »
+(Sans oublier la traductrice...)
 >  <cite>[Minimal Structure][reviews]</cite>
 
 ---
@@ -63,8 +64,8 @@ et en [format réalité virtuelle (en anglais)][VR].
 
 <center>
   <p>Envie d'entrer au Pays des merveilles ?<br/>
-  <a href="{{ 'preface' | absolute_url }}">Suivez le Lapin blanc →</a></p>
-  <p><a href="{{ 'preface' | absolute_url }}"><img src="/assets/images/rabbit.png"/></a></p>
+  <a href="https://vingt-et-un.github.io/preface">Suivez le Lapin blanc →</a></p>
+  <p><a href="https://vingt-et-un.github.io/preface"><img src="/assets/images/rabbit.png"/></a></p>
 </center>
 
 
@@ -72,7 +73,7 @@ et en [format réalité virtuelle (en anglais)][VR].
 [amazon]: https://amzn.to/2VXmQgp
 
 <!-- Internal  -->
-[preface]: {{ 'preface' | absolute_url }}
+[preface]: https://vingt-et-un.github.io/preface
 [translations]: {{ 'translations' | absolute_url }}
 [audio]: {{ 'audio' | absolute_url }}
 [VR]: https://21lessons.com/vr/
