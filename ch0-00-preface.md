@@ -13,7 +13,7 @@ j'ai l'impression d'avoir plus appris en étudiant Bitcoin
 ces quelques dernières années qu'en vingt ans de parcours scolaire et universitaire.
 
 Les leçons qui suivent reprennent l'essence de ces enseignements. Initialement publiées
-sous la forme d'une série d'articles intitulée [\What I’ve Learned From Bitcoin\][I]
+sous la forme d'une série d'articles intitulée [*What I’ve Learned From Bitcoin*][I]
 (« Ce que Bitcoin m'a appris »), ce qui suit est en quelque sorte une réédition
 de la série d'origine.
 
