@@ -209,13 +209,13 @@ Certes, le bitcoin est un étrange animal. Il est compliqué, nous dépasse, et 
 
 · [bitcoin-resources.com]
 
-· [21lessons.com/rabbithole]
+· [21lessons.com/rabbithole][le terrier du Lapin blanc]
 
 ## Remerciements
 
-· Merci à [Brekkie] et [Fab][Fab]: https://twitter.com/fabthefoxx pour leurs retours précieux sur les premières versions de cette lettre.
+· Merci à [Brekkie] et [Fab][Fab] pour leurs retours précieux sur les premières versions de cette lettre.
 
-· Merci à [Hass] pour sa relecture et son sacrifice sur la colline de l’AutoDCA.
+· Merci à [Hass][prêtre·sse local·e] pour sa relecture et son sacrifice sur la colline de l’AutoDCA.
 
 
 ## Traductions
