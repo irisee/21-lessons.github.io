@@ -84,11 +84,11 @@ Will Rogers tenait le bon concept : la rareté, c’est la valeur. Cependant, lo
 
 Le bitcoin fait l’objet de nombreux préjugés, dont voici probablement les principaux :
 
-> * Le bitcoin est trop cher
-> * Le bitcoin est obsolète
-> * Le bitcoin est trop compliqué
-> * Le bitcoin est risqué et spéculatif
-> * Le bitcoin va être remplacé par une autre cryptomonnaie
+* Le bitcoin est trop cher
+* Le bitcoin est obsolète
+* Le bitcoin est trop compliqué
+* Le bitcoin est risqué et spéculatif
+* Le bitcoin va être remplacé par une autre cryptomonnaie
 
 Examinons-les brièvement un à un.
 
@@ -130,92 +130,93 @@ Il suffit de dézoomer pour constater que le prix du bitcoin ne fait qu’augmen
 
 Quelques points à garder en tête :
 
-> * [Pas de trading]
-> * [Ne restez pas à zéro]
-> * [Automatisez avec le DCA automatique]  
-> * [Tout le monde pense qu’il est trop tard]
-> * [Vous pouvez acheter une fraction de bitcoin]
-> * [Les tiers de confiance sont des failles de sécurité]
-> * [Le temps joue en votre faveur, les prédictions, elles, non]
-> * [Il y a l’or, et puis il y a l’or crétin : ne touchez pas aux *shitcoins*]
+* [Pas de trading]
+* [Ne restez pas à zéro]
+* [Automatisez avec le DCA automatique]  
+* [Tout le monde pense qu’il est trop tard]
+* [Vous pouvez acheter une fraction de bitcoin]
+* [Les tiers de confiance sont des failles de sécurité]
+* [Le temps joue en votre faveur, les prédictions, elles, non]
+* [Il y a l’or, et puis il y a l’or crétin : ne touchez pas aux *shitcoins*]
 
-Vous penserez peut-être que vous n’avez pas assez d’argent pour commencer à acheter des sats. J’en doute. Si vous lisez ces lignes, vous vous trouvez probablement au niveau 4 et vous pouvez sans doute épargner un ou deux dollars par jour. N’oubliez pas que quelques dollars vous permettent d’acheter des dizaines de milliers de sats. Il y a aussi des manières indirectes de recevoir des sats, comme certains services de cashback. Vous pouvez aussi vous défaire d’une vieille habitude et commencer à acheter des sats avec les économies réalisées. Pour faire d’une pierre deux coups, etc.
+Vous penserez peut-être que vous n’avez pas assez d’argent pour commencer à acheter des sats. J’en doute. Si vous lisez ces lignes, vous vous trouvez probablement au [niveau 4] et vous pouvez sans doute épargner un ou deux dollars par jour. N’oubliez pas que quelques dollars vous permettent d’acheter des dizaines de milliers de sats. Il y a aussi des manières indirectes de recevoir des sats, comme certains services de cashback. Vous pouvez aussi vous défaire d’une vieille habitude et commencer à acheter des sats avec les économies réalisées. Pour faire d’une pierre deux coups, etc.
 
 Les sats sont encore terriblement bon marché. Il y a fort à parier qu’un dollar vaudra bientôt bien moins que des dizaines de milliers de sats. Le pouvoir d’achat du dollar ne cesse de baisser ; le pouvoir d’achat du bitcoin continue d’augmenter, historiquement. Cependant, même si le prix du bitcoin continue d’augmenter follement, vous pourrez probablement encore acquérir quelques sats pour un dollar dans l’avenir proche.
-Incroyable mais vrai : la valeur du dollar et de l’euro peut encore baisser
+
+{% include image.html path="./assets/images/dollar.jpg" caption="Incroyable mais vrai : la valeur du dollar et de l’euro peut encore baisser" %}
 
 Vous êtes sceptique, je peux le comprendre. J’étais moi aussi sceptique. Il m’a fallu beaucoup de temps pour comprendre l’essence du bitcoin. Il m’a fallu encore plus de temps pour faire suffisamment confiance à cet argent magique sur internet pour en acheter. Ensuite, il m’a fallu du temps pour arrêter de faire du trading et commencer à en accumuler. J’espère vous permettre de gagner du temps et d’échapper à bien des moments pénibles grâce à mon message : plus vous commencez tôt, plus le processus est automatique, mieux c’est.
 
 Tout cela étant dit, voici quelques avertissements :
 
-> Commencez doucement. N’achetez pas plus que vos moyens ne vous le permettent.
-> 
-> Soyez humble. Ne soyez pas cupide. Ne vous mettez pas en difficulté.
-> 
-> Si vous ne détenez pas vos clefs, vous n'avez pas de bitcoins. Ne faites pas confiance aux dépositaires. Gardez toujours à l’esprit que les tiers de confiance sont des failles de sécurité.
-> 
-> Ne faites pas confiance, vérifiez. Partez du principe que vous ne pouvez faire confiance à personne.
-> 
-> Renseignez-vous. Le bitcoin est par nature libre d’accès : vous pouvez vous renseigner sur sa nature et son fonctionnement. Je propose une liste exhaustive de ressources (en anglais) s’il vous faut un point de départ.
+* **Commencez doucement.** N’achetez pas plus que vos moyens ne vous le permettent.
+* **Soyez humble.** Ne soyez pas cupide. Ne vous mettez pas en difficulté.
+* **Si vous ne détenez pas vos clefs, vous n'avez pas de bitcoins.** Ne faites pas confiance aux dépositaires. Gardez toujours à l’esprit que [les tiers de confiance sont des failles de sécurité].
+* **Ne faites pas confiance, vérifiez**. Partez du principe que [vous ne pouvez faire confiance à personne].
+* **Renseignez-vous.** Le bitcoin est par nature libre d’accès : vous pouvez vous renseigner sur sa nature et son fonctionnement. Je propose une [liste exhaustive de ressources] (en anglais) s’il vous faut un point de départ.
 
-C’est le moment idéal pour créer une épargne en bitcoin. De nombreux services vous permettent de convertir automatiquement un certain montant de votre monnaie locale en bitcoin de façon hebdomadaire, mensuelle ou quotidienne. Je n’émettrai aucune recommandation ici, car celle-ci pourrait perdre de sa validité rapidement. Il vous revient de trouver le service le mieux adapté à vos besoins. Contactez votre prêtre*sse local ou guide bitcoin à proximité. Si cette personne ne connait pas le DCA, l’investissement automatique, trouvez une personne mieux renseignée. (Et s’il se trouve que c’est moi, alors contactez-moi.)
+C’est le moment idéal pour créer une épargne en bitcoin. De nombreux services vous permettent de convertir automatiquement un certain montant de votre monnaie locale en bitcoin de façon hebdomadaire, mensuelle ou quotidienne. Je n’émettrai aucune recommandation ici, car celle-ci pourrait perdre de sa validité rapidement. Il vous revient de trouver le service le mieux adapté à vos besoins. Contactez votre [prêtre·sse local·e] ou guide bitcoin à proximité. Si cette personne ne connait pas le DCA, l’investissement automatique, trouvez une personne mieux renseignée. (Et s’il se trouve que c’est moi, alors contactez-moi.)
 
 > « Détenir du bitcoin est l’un des rares paris asymétriques auxquels les peuples du monde entier peuvent prendre part. »
-> <cite>Vijay Boyapati</cite>
+> <cite>[Vijay Boyapati]</cite>
 
 Si le bitcoin est un investissement pour l’avenir, je ne le vois pas nécessairement comme un investissement spéculatif. Je ne le perçois pas non plus comme un actif qui a vocation à être revendu contre des dollars, euros ou yens. Pour citer le mème consacré : « Lorsque le temps sera venu, vous n’aurez pas à vendre votre bitcoin. »
-Néo a choisi la pilule orange et tombe dans le terrier du lapin blanc.
-On n’attend plus que vous
 
-En échangeant votre monnaie fiduciaire contre du bitcoin, vous quittez un système profondément instable pour un autre qui résiste à toute épreuve. C’est votre système de sécurité financière, une voix en faveur d’une base meilleure, plus transparente sur laquelle construire notre société. Je suis convaincu*e que le bitcoin a encore un immense potentiel de croissance. Ainsi, plus vous investissez tôt dans cette monnaie émergente, plus vous serez en mesure de profiter de son pouvoir d’achat en pleine expansion. Ou, pour m’exprimer autrement : le mieux est de commencer à accumuler des sats le plus rapidement possible. Cependant, je suis également convaincu*e que vous comprendrez le bitcoin dès que votre moment sera venu. Je crois donc que les premières fractions de bitcoin vous parviendront dès que vous serez en mesure de les recevoir. « Vous pouvez amener un cheval à la rivière, mais vous ne pouvez pas le forcer à s’abreuver », dit le proverbe.
+{% include image.html path="./assets/images/Neo.jpg" caption="Néo a choisi la [pilule orange]: https://vingt-et-un.github.io/ et tombe dans [le terrier du Lapin blanc]." %}
+
+
+## On n’attend plus que vous
+
+En échangeant votre monnaie fiduciaire contre du bitcoin, vous quittez un système profondément instable pour un autre qui résiste à toute épreuve. C’est votre système de sécurité financière, une voix en faveur d’une base meilleure, plus transparente sur laquelle construire notre société. Je suis convaincu·e que le bitcoin a encore un immense potentiel de croissance. Ainsi, plus vous investissez tôt dans cette monnaie émergente, plus vous serez en mesure de profiter de son pouvoir d’achat en pleine expansion. Ou, pour m’exprimer autrement : le mieux est de commencer à accumuler des sats le plus rapidement possible. Cependant, je suis également convaincu·e que vous comprendrez le bitcoin dès que votre moment sera venu. Je crois donc que les premières fractions de bitcoin vous parviendront dès que vous serez en mesure de les recevoir. « Vous pouvez amener un cheval à la rivière, mais vous ne pouvez pas le forcer à s’abreuver », dit le proverbe.
 
 Pour détenir des bitcoins, vous devez faire preuve d’un sens des responsabilités : vous devrez vous informer, apprendre à l’utiliser et à le conserver de manière sécurisée et faire tout un tas de démarches qu’un tiers prend normalement en charge pour vous. Rien n’est gratuit dans la vie ; pour bénéficier des libertés que vous offre le bitcoin, il vous en coûtera le sens des responsabilités.
 
 Dans tous les cas, le bitcoin n’attend que vous. Il ne va pas disparaître et personne ne pourra vous empêcher d’en acquérir si votre moment est venu. C’est la beauté du bitcoin : il est toujours disponible pour vous, que vous en fassiez usage ou non.
 
-Certes, le bitcoin est un étrange animal. Il est compliqué, nous dépasse, et nous fait même peut-être un peu peur. Mais plus vous apprivoisez cette bête rapidement, mieux vous pourrez faire face à l’avenir. Et je suis convaincu que le meilleur moyen de l’apprivoiser, c’est d’accumuler des sats. Pour reprendre les mots d’un vieux sage : « Achetez du bitcoin, ce n’est pas si difficile. »
+Certes, le bitcoin est un étrange animal. Il est compliqué, nous dépasse, et nous fait même peut-être un peu peur. Mais plus vous apprivoisez cette bête rapidement, mieux vous pourrez faire face à l’avenir. Et je suis convaincu que le meilleur moyen de l’apprivoiser, c’est d’accumuler des sats. Pour reprendre les mots d’[un vieux sage] : « Achetez du bitcoin, ce n’est pas si difficile. »
 
-Avertissement : Cela va sans dire, mais je crains qu’il ne soit nécessaire de l’écrire de manière explicite : ceci n’est pas un conseil d’investissement. Ceci n’est pas un conseil d’investissement. J’ai écrit cette lettre pour avoir quelque chose à proposer lorsque des proches me contactent au sujet du bitcoin. Je l’ai publiée parce que j’ai pensé qu’elle pourrait servir à d’autres également. Si vous ne m’avez jamais rencontré, je suis juste une personne sur internet. Je pourrais tout aussi bien être un chien. Agissez en conséquence.
-Premiers pas
+***Avertissement :** Cela va sans dire, mais je crains qu’il ne soit nécessaire de l’écrire de manière explicite : ceci n’est pas un conseil d’investissement. Ceci n’est pas un conseil d’investissement. J’ai écrit cette lettre pour avoir quelque chose à proposer lorsque des proches me contactent au sujet du bitcoin. Je l’ai publiée parce que j’ai pensé qu’elle pourrait servir à d’autres également. Si vous ne m’avez jamais rencontré, je suis juste une personne sur internet. Je pourrais tout aussi bien être un [chien]. Agissez en conséquence.
 
-Setting Up Your First Bitcoin Mobile Wallet
 
-· 12-Step Intro to Start Using Bitcoin
+## Premiers pas (ressources en anglais)
 
-· Getting started with Bitcoin
-Pour aller plus loin
+· [Setting Up Your First Bitcoin Mobile Wallet]
+· [12-Step Intro to Start Using Bitcoin]
+· [Getting started with Bitcoin]
 
-· The Bullish Case For Bitcoin by Vijay Boyapati
 
-· Gradually, Then Suddenly series by Parker Lewis
-Pour aller plus loin (podcasts)
+## Pour aller plus loin (ressources en anglais)
 
-· Explaining Bitcoin to Traditional Investors by John Vallis
+· [The Bullish Case For Bitcoin by Vijay Boyapati]
+· [Gradually, Then Suddenly series by Parker Lewis]
 
-· The Beginner’s Guide to Bitcoin by Peter McCormack
-Sources d’information complémentaires
 
-· bitcoin.page
+## Pour aller plus loin (podcasts en anglais)
 
-· bitcoin-only.com
+· [Explaining Bitcoin to Traditional Investors by John Vallis]
+· [The Beginner’s Guide to Bitcoin by Peter McCormack]
 
-· bitcoin-resources.com
 
-· 21lessons.com/rabbithole
-Remerciements
+## Sources d’informations complémentaires (en anglais)
 
-· Merci à Brekkie et Fab pour leurs retours précieux sur les premières versions de cette lettre.
+· [bitcoin.page]
+· [bitcoin-only.com]
+· [bitcoin-resources.com]
+· [21lessons.com/rabbithole]
 
-· Merci à Hass pour sa relecture et son sacrifice sur la colline de l’AutoDCA.
-Traductions
+## Remerciements
 
-· Traduction en allemand par ge3onim0 et Fab The Fox 🦊
+· Merci à [Brekkie] et [Fab] pour leurs retours précieux sur les premières versions de cette lettre.
+· Merci à [Hass] pour sa relecture et son sacrifice sur la colline de l’AutoDCA.
 
-· Traduction en portugais du Brésil par pensaduras
 
-· Traduction en portugais par Sparkpay
+## Traductions
 
-· Traduction en espagnol par Buda
+· [Traduction en allemand] par [ge3onim0] et [Fab The Fox 🦊]
+
+· [Traduction en portugais du Brésil] par [pensaduras]
+· [Traduction en portugais] par Sparkpay
+· [Traduction en espagnol] par Buda
 
 <!-- Links -->
 [letter]: https://dergigi.medium.com/dear-family-dear-friends-6ef7ee7a1a2b
@@ -255,3 +256,31 @@ Traductions
 [Les tiers de confiance sont des failles de sécurité]: https://nakamotoinstitute.org/trusted-third-parties/
 [Le temps joue en votre faveur, les prédictions, elles, non]: http://jrxy.zjsu.edu.cn/jrxy/jssc/791.pdf 
 [Il y a l’or, et puis il y a l’or crétin : ne touchez pas aux *shitcoins*]: https://coinmarketcrap.co/
+[niveau 4]: https://www.gapminder.org/topics/four-income-levels/
+[les tiers de confiance sont des failles de sécurité]: https://nakamotoinstitute.org/trusted-third-parties/.
+[vous ne pouvez faire confiance à personne]: https://nakamotoinstitute.org/mempool/everyones-a-scammer/.
+[liste exhaustive de ressources]: https://bitcoin-resources.com/
+[prêtre·sse local·e]: https://twitter.com/FriarHass
+[Vijay Boyapati]: https://twitter.com/real_vijay/status/969591986662424576
+[pilule orange]: https://vingt-et-un.github.io/intro
+[le terrier du Lapin blanc]: https://vingt-et-un.github.io/rabbithole
+[un vieux sage]: https://twitter.com/BitcoinOldGuy
+[chien]: https://fr.wikipedia.org/wiki/On_the_Internet,_nobody_knows_you%27re_a_dog
+[Setting Up Your First Bitcoin Mobile Wallet]: https://www.citadel21.com/not-your-keys-not-your-bitcoin
+[12-Step Intro to Start Using Bitcoin]: https://bitcoin-intro.com/
+[Getting started with Bitcoin]: https://bitcoin.org/en/getting-started
+[The Bullish Case For Bitcoin by Vijay Boyapati]: https://medium.com/@vijayboyapati/the-bullish-case-for-bitcoin-6ecc8bdecc1
+[Gradually, Then Suddenly series by Parker Lewis]: https://nakamotoinstitute.org/mempool/series/gradually-then-suddenly/
+[Explaining Bitcoin to Traditional Investors by John Vallis]: https://anchor.fm/john-vallis/episodes/Explaining-Bitcoin-to-Traditional-Investors-ed65pe
+[The Beginner’s Guide to Bitcoin by Peter McCormack]: https://www.whatbitcoindid.com/podcast/the-beginners-guide-to-bitcoin-part-1-andreas-m-antonopoulos-on-why-we-need-bitcoin
+[bitcoin.page]: https://bitcoin.page/
+[bitcoin-only.com]: https://bitcoin-only.com/
+[bitcoin-resources.com]: https://bitcoin-resources.com/
+[Brekkie]: https://twitter.com/BVBTC
+[Fab]: https://twitter.com/fabthefoxx
+[Traduction en allemand]https://medium.com/aprycotmedia/liebe-familie-liebe-freunde-5fb2c4a242dd
+[ge3onim0]: https://twitter.com/ge3onim0
+[Traduction en portugais du Brésil]: https://medium.com/@mileschet/querida-familia-caros-amigos-a31b1cc5a9fa
+[pensaduras]: https://medium.com/u/cf2e42fd32e3?source=post_page-----6ef7ee7a1a2b--------------------------------
+[Traduction en portugais]: https://blog.sparkpay.pt/cara-familia-caros-amigos/
+[Traduction en espagnol]: https://www.buda.com/blog/posts/carta-abierta-a-todos-los-bitcoiners-del-mundo/ 
