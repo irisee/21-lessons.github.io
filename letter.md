@@ -162,7 +162,7 @@ C’est le moment idéal pour créer une épargne en bitcoin. De nombreux servic
 
 Si le bitcoin est un investissement pour l’avenir, je ne le vois pas nécessairement comme un investissement spéculatif. Je ne le perçois pas non plus comme un actif qui a vocation à être revendu contre des dollars, euros ou yens. Pour citer le mème consacré : « Lorsque le temps sera venu, vous n’aurez pas à vendre votre bitcoin. »
 
-{% include image.html path="./assets/images/Neo.jpg" caption="Néo a choisi la [pilule orange]: https://vingt-et-un.github.io/ et tombe dans [le terrier du Lapin blanc]." %}
+{% include image.html path="./assets/images/Neo.jpg" caption="Néo a choisi la [pilule orange] et tombe dans [le terrier du Lapin blanc]." %}
 
 
 ## On n’attend plus que vous
