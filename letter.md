@@ -181,32 +181,40 @@ Certes, le bitcoin est un étrange animal. Il est compliqué, nous dépasse, et 
 ## Premiers pas (ressources en anglais)
 
 · [Setting Up Your First Bitcoin Mobile Wallet]
+
 · [12-Step Intro to Start Using Bitcoin]
+
 · [Getting started with Bitcoin]
 
 
 ## Pour aller plus loin (ressources en anglais)
 
 · [The Bullish Case For Bitcoin by Vijay Boyapati]
+
 · [Gradually, Then Suddenly series by Parker Lewis]
 
 
 ## Pour aller plus loin (podcasts en anglais)
 
 · [Explaining Bitcoin to Traditional Investors by John Vallis]
+
 · [The Beginner’s Guide to Bitcoin by Peter McCormack]
 
 
 ## Sources d’informations complémentaires (en anglais)
 
 · [bitcoin.page]
+
 · [bitcoin-only.com]
+
 · [bitcoin-resources.com]
+
 · [21lessons.com/rabbithole]
 
 ## Remerciements
 
 · Merci à [Brekkie] et [Fab] pour leurs retours précieux sur les premières versions de cette lettre.
+
 · Merci à [Hass] pour sa relecture et son sacrifice sur la colline de l’AutoDCA.
 
 
@@ -215,7 +223,9 @@ Certes, le bitcoin est un étrange animal. Il est compliqué, nous dépasse, et 
 · [Traduction en allemand] par [ge3onim0] et [Fab The Fox 🦊]
 
 · [Traduction en portugais du Brésil] par [pensaduras]
+
 · [Traduction en portugais] par Sparkpay
+
 · [Traduction en espagnol] par Buda
 
 <!-- Links -->
