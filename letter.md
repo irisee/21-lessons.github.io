@@ -220,7 +220,7 @@ Certes, le bitcoin est un étrange animal. Il est compliqué, nous dépasse, et 
 
 ## Traductions
 
-· [Traduction en allemand] par [ge3onim0] et [Fab The Fox 🦊]
+· [Traduction en allemand] par [ge3onim0] et [Fab The Fox 🦊][Fab]
 
 · [Traduction en portugais du Brésil] par [pensaduras]
 
