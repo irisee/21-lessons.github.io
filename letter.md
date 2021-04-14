@@ -175,7 +175,7 @@ Dans tous les cas, le bitcoin n’attend que vous. Il ne va pas disparaître et 
 
 Certes, le bitcoin est un étrange animal. Il est compliqué, nous dépasse, et nous fait même peut-être un peu peur. Mais plus vous apprivoisez cette bête rapidement, mieux vous pourrez faire face à l’avenir. Et je suis convaincu que le meilleur moyen de l’apprivoiser, c’est d’accumuler des sats. Pour reprendre les mots d’[un vieux sage] : « Achetez du bitcoin, ce n’est pas si difficile. »
 
-***Avertissement :** Cela va sans dire, mais je crains qu’il ne soit nécessaire de l’écrire de manière explicite : ceci n’est pas un conseil d’investissement. Ceci n’est pas un conseil d’investissement. J’ai écrit cette lettre pour avoir quelque chose à proposer lorsque des proches me contactent au sujet du bitcoin. Je l’ai publiée parce que j’ai pensé qu’elle pourrait servir à d’autres également. Si vous ne m’avez jamais rencontré, je suis juste une personne sur internet. Je pourrais tout aussi bien être un [chien]. Agissez en conséquence.
+***Avertissement :** Cela va sans dire, mais je crains qu’il ne soit nécessaire de l’écrire de manière explicite : ceci n’est pas un conseil d’investissement. Ceci n’est pas un conseil d’investissement. J’ai écrit cette lettre pour avoir quelque chose à proposer lorsque des proches me contactent au sujet du bitcoin. Je l’ai publiée parce que j’ai pensé qu’elle pourrait servir à d’autres également. Si vous ne m’avez jamais rencontré, je suis juste une personne sur internet. Je pourrais tout aussi bien être un [chien]. Agissez en conséquence.*
 
 
 ## Premiers pas (ressources en anglais)
@@ -213,7 +213,7 @@ Certes, le bitcoin est un étrange animal. Il est compliqué, nous dépasse, et 
 
 ## Remerciements
 
-· Merci à [Brekkie] et [Fab] pour leurs retours précieux sur les premières versions de cette lettre.
+· Merci à [Brekkie] et [Fab][Fab]: https://twitter.com/fabthefoxx pour leurs retours précieux sur les premières versions de cette lettre.
 
 · Merci à [Hass] pour sa relecture et son sacrifice sur la colline de l’AutoDCA.
 
