@@ -288,7 +288,7 @@ Certes, le bitcoin est un étrange animal. Il est compliqué, nous dépasse, et 
 [bitcoin-resources.com]: https://bitcoin-resources.com/
 [Brekkie]: https://twitter.com/BVBTC
 [Fab]: https://twitter.com/fabthefoxx
-[Traduction en allemand]https://medium.com/aprycotmedia/liebe-familie-liebe-freunde-5fb2c4a242dd
+[Traduction en allemand]: https://medium.com/aprycotmedia/liebe-familie-liebe-freunde-5fb2c4a242dd
 [ge3onim0]: https://twitter.com/ge3onim0
 [Traduction en portugais du Brésil]: https://medium.com/@mileschet/querida-familia-caros-amigos-a31b1cc5a9fa
 [pensaduras]: https://medium.com/u/cf2e42fd32e3?source=post_page-----6ef7ee7a1a2b--------------------------------
